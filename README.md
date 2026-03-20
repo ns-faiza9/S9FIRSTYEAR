@@ -1,1 +1,1 @@
-This is like my first HTML layout and GitHub repository.
+This is my first HTML layout and GitHub repository.
